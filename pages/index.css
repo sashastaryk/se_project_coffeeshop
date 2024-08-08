@@ -168,6 +168,9 @@ width: 480px;
     padding: 100px 0 120px;
     background-color:#D9E7ff;
     background-image: url(../images/background_reservation.svg);
+    background-repeat: no-repeat;      
+    background-position: center;      
+    background-size: cover;
 
 }
 
@@ -229,7 +232,8 @@ gap:12px;
     margin-top: 8px;
     border: 1px solid #838383;
     padding: 15px;
-    margin-bottom: 20px;
+    font-family: Inter, Arial;
+line-height: 30px;
 }
 
 
@@ -239,11 +243,10 @@ gap:12px;
     margin-bottom: 32px;
     border-radius:4px;
     border: none;
-    font-style: 32px;
     background-color: #1878dc;
     color: #ffffff;
     transition: background-color 0.3s ease;
-    font-family: Inter, Arial;
+    font-family:Inter,Arial,sans sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
