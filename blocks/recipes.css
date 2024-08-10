@@ -12,21 +12,19 @@
     font-family: Inter, Arial,sans-serif;
  color: #ffffff;
  max-width: 580px;
- top:100px;
- left: 80px;
  font-weight:500;
  font-size: 44px;
  line-height: 52px;
+ margin: 0;
 }
 
 .recipes__subtitle{
     font-family: "Noto Serif","Times New Roman";
     max-width: 438px;
-    top:24px;
-    left: 80px;
     font-size: 20px;
  line-height: 30px;
  color: #ffffff;
+ margin: 0;
 }
 
 .recipes__videos{
@@ -46,7 +44,7 @@
  font-size: 20px;
  line-height: 30px;
  color: #ffffff;
- top:24px;
+ margin: 0;
 }
 
 .recipes__iframe{
