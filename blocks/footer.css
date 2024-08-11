@@ -22,6 +22,7 @@
     align-items: flex-end;
 flex-direction: column;
 margin:0 80px;
+gap:20px;
   }
 
 .footer__copyright{

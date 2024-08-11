@@ -30,13 +30,13 @@
     line-height: 30px;
     margin: 28px 0 0;
     z-index: 1;
-    font-family: "Noto Serif","Times New Roman";
+    font-family: "Noto Serif","Times New Roman",serif;
  font-style: normal;
 }
 
 .header__span-accent{
     display: block;
-    font-family: "Noto Serif","Times New Roman";
+    font-family: "Noto Serif","Times New Roman",serif;
 font-style: italic;
 font-weight: normal;
 color: #3F96F3;
