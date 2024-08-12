@@ -19,7 +19,7 @@
 }
 
 .recipes__subtitle {
-	font-family: 'Noto Serif', 'Times New Roman';
+	font-family: 'Noto Serif', 'Times New Roman', serifs;
 	max-width: 438px;
 	font-size: 20px;
 	line-height: 30px;
@@ -43,7 +43,7 @@
 	font-size: 20px;
 	line-height: 30px;
 	color: #ffffff;
-	margin: 0;
+	margin: 24px 0 0;
 }
 
 .recipes__iframe {
